@@ -1,3 +1,11 @@
+My fork has Edits for Changing the ps-logo to your server logo (.png) with ease.
+
+Just REPLACE the **logo.png** in ``html/logo.png`` folder to your RP Server Logo.
+
+**PS** - Size of the logo.png be ``120x120px`` You may edit it according to your logo size fittings
+
+_________________________________________________________________________________________________________________________________________________________________________________
+
 ![Project Sloth GitHub Project PS-HUD Banner](https://user-images.githubusercontent.com/91661118/170896135-fead50a0-2a4b-432d-8469-038acfb4f2f3.png)
 
 ### ps-hud
