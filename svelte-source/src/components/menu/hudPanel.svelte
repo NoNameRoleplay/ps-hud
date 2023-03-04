@@ -1,7 +1,8 @@
 <script lang="ts">
   import Button from '../atoms/button.svelte'
   import Checkbox from '../atoms/checkbox.svelte'
-  import PSLogo from '../atoms/ps-logo.svelte'
+  // import PSLogo from '../atoms/ps-logo.svelte'     --> Not been used
+  // import Logo from '../atoms/logo.png'             --> For Preview
   import Switch from '../atoms/switch.svelte'
   import MenuStore from '../../stores/menuStore';
   import { fetchNui } from '../../utils/eventHandler';
@@ -18,7 +19,9 @@
 <div class="text-sm flex flex-col text-[#e8e8e8]">
   <div class="mx-4 mb-5 mt-3">
     <div class="float-right w-[25%]">
-      <PSLogo />
+      <!-- <PSLogo /> -->
+      <!-- <img src='Logo' alt="Your Server Logo"/>   For Preview -->
+      <img src='logo.png' alt="Your Server Logo"/>
     </div>
     <div class="-mx-4 mb-4 text-2xl text-white">
       <p>Reset HUD </p>
